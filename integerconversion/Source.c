@@ -29,7 +29,7 @@ int main()
 	}
 	printf("\n %d %d %d %d\n", count, min, max,sum/count);
 	//getch();
-	//
+	
 		return 0;
 
 }
